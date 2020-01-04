@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DjikistrasAlgorithm/.idea/DjikistrasAlgorithm.iml" filepath="$PROJECT_DIR$/../DjikistrasAlgorithm/.idea/DjikistrasAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FindKeys/.idea/FindKeys.iml" filepath="$PROJECT_DIR$/../FindKeys/.idea/FindKeys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Graphs.iml" filepath="$PROJECT_DIR$/.idea/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MealPlan/.idea/MealPlan.iml" filepath="$PROJECT_DIR$/../MealPlan/.idea/MealPlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../first/.idea/first.iml" filepath="$PROJECT_DIR$/../first/.idea/first.iml" />
+    </modules>
+  </component>
+</project>
